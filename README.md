@@ -1,5 +1,5 @@
 <h1> 👋 I’m @Ricardo-Edu </h1>
-<h3> 👀 blah blah snore </h3>
+<h5> 👀 blah blah snore </h3>
 <h2> 🌱 I’m currently learning Node and DBs </h2>
 <hr>
 <p>
