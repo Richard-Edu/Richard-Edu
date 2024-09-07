@@ -1,7 +1,8 @@
+
+<body>
 <h1> 👋 I’m @Ricardo-Edu </h1>
 <h5> 👀 blah blah snore </h3>
-<h2> 🌱 I’m currently learning Node and DBs </h2>
-<hr>
+<h2 style="color:blue;text-align:center;"> 🌱 I’m currently learning Node and DBs </h2>
 <p>
   <ul>
     <li>
@@ -18,7 +19,7 @@
     </li>
   </ul>
 </p>
-<hr>
+</body>
 <!---
 Richard-Edu/Richard-Edu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
